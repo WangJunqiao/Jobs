@@ -28,3 +28,10 @@ int main() {
 	b->sss();
 	b->ttt();
 }
+
+/*
+output:
+b sss
+a ttt
+
+ * */
